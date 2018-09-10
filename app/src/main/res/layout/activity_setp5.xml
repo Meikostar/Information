@@ -1,0 +1,174 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.cp.netllc.information.Step5Activity">
+
+
+    <!-- Login progress -->
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bt_next"
+        android:layout_below="@+id/tv_step"
+
+        >
+
+        <LinearLayout
+            android:id="@+id/email_login_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/photo_cd"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_cd"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/bg_shape">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_plus"
+                android:layout_centerInParent="true"
+                />
+            <ImageView
+                android:id="@+id/iv_cd"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/icon_plus"
+                android:layout_centerInParent="true"
+                android:scaleType="center"
+                android:visibility="gone"
+                />
+
+        </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/photo_card"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <RelativeLayout
+                android:id="@+id/rl_card"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/bg_shape">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_plus"
+                    android:layout_centerInParent="true"
+                    />
+                <ImageView
+                    android:id="@+id/iv_card"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/icon_plus"
+                    android:layout_centerInParent="true"
+                    android:scaleType="center"
+                    android:visibility="gone"
+                    />
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/photo_in"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <RelativeLayout
+                android:id="@+id/rl_in"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/bg_shape">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_plus"
+                    android:layout_centerInParent="true"
+                    />
+
+                <ImageView
+                    android:id="@+id/iv_in"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/icon_plus"
+                    android:layout_centerInParent="true"
+                    android:scaleType="center"
+                    android:visibility="gone"
+                    />
+
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/photo_address"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <RelativeLayout
+                android:id="@+id/rl_address"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/bg_shape">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_plus"
+                    android:layout_centerInParent="true"
+                    />
+
+                <ImageView
+                    android:id="@+id/iv_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/icon_plus"
+                    android:layout_centerInParent="true"
+                    android:scaleType="center"
+                    android:visibility="gone"
+                    />
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/bt_next"
+        style="?android:textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/next"
+        android:textStyle="bold"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        />
+
+</RelativeLayout>

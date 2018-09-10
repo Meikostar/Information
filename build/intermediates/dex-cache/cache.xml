@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.1\287742f1c6cea6d9126670e9f031890b0462362a\support-annotations-27.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.1_e1e26a39fec5a4721ed571a94cdb0c79676fb80e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.11.0\75966e05a49046ca2ae734e5626f28837a8d1e82\okhttp-3.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75966e05a49046ca2ae734e5626f28837a8d1e82">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\okhttp-3.11.0_1d604702e90b9196753f6aec8117b2f663d237fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\transition\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.1.0_718ee0a6036bd9885a9b473003ecf676c8c229f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6db956f55089a8d067d7cab3f65aa2aba8b6396d">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-27.0.1_150b2ebcec1434671943ddd35a3e3e46b15c91fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_a5d3994f52e6970dfdd41049f8ddb0d50d43f4a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.1_a39d6bc5a261affa2007811853aa41819b294e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.1_53212bcf82dbe7b6e8626cd6d3e60d4145d523ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f61ae6782c30c26807a22ac88977f8b084d747f3">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.9.6.0_5b87b78864e210a287366b11ef18af57737a78a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.1_7002085da79f70070386b6ce20954ac01c5a9f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.4.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="74d45150416ad644b27f9a0f4b5e25741145b3d4">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.4.2_d7a7b6103dd7a01d95214fb8a6b959d77e38bec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.5\f645ed69d595b24d4cf8b3fbb64cc505bede8829\gson-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f645ed69d595b24d4cf8b3fbb64cc505bede8829">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\gson-2.8.5_016075a13acc65a9e51f8fa84f029ddb0cf616df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.1_0d2abb5b6e2ca5ee1ef1d478f8b9870befbf2e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.1.0_de721c061852c1e3b64c2f6c21b8f78f0e5bdb49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_1bbb3feb7cafd25a20a4c40c95b3aa821fb815ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_7969bb2cd4f0eca6bc85023eb007b1a8040a946f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.1_e7c5511d1fb0de86ed7f1d6fb50a934b2ddc5c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\okio-1.14.0_294f12e59a5354ef6f48087548f6505d6f3fbf53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.1_55dd0e36819779879639443644efe5d9552b5371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\common-1.0.0_34ca24e8cff1f829d4bac2a8acae5d89393e0831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.1_ccaac0df4447101ebf439cf550d94865a0a7ee23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\common-1.0.0_1c4bb69efeb70b6c658b4737f6f3514e68095c88.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">資料申請</string>
+    <string name="title_activity_setp6">資料申請</string>
+    <string name="next">下一步</string>
+    <string name="text_null">內容為空</string>
+
+    <!-- 個人資料 -->
+    <string name="personal_data">個人資料</string>
+    <string name="cn_name">中文姓名*</string>
+    <string name="en_name">英文姓名*</string>
+    <string name="cd_num">身份證號碼*</string>
+    <string name="date">出身年月*</string>
+    <string name="age">年齡*</string>
+    <string name="house_address">住址*</string>
+    <string name="house_type">住宅類型</string>
+    <string name="house_tel">住宅電話</string>
+    <string name="house_date">居住年期</string>
+
+    <!-- 工作資料 -->
+    <string name="work_data">工作資料</string>
+    <string name="position">職位*</string>
+    <string name="seniority">年資*</string>
+    <string name="cp_name">公司名稱*</string>
+    <string name="cp_address">公司地址*</string>
+    <string name="cp_tel">公司電話</string>
+    <string name="month_pay">每月薪金</string>
+    <string name="out_type">出糧方式</string>
+
+    <!-- 同住人資料 -->
+    <string name="cb_data">同住人資料</string>
+    <string name="cb_name">姓名*</string>
+    <string name="cb_tel">手提電話*</string>
+    <string name="cb_relationship">關係*</string>
+    <string name="cb_job">職業*</string>
+
+    <!-- 非同住人親戚咨詢人資料 -->
+    <string name="re_data">非同住人親戚咨詢人資料</string>
+    <string name="re_name">姓名*</string>
+    <string name="re_tel">手提電話*</string>
+    <string name="re_relationship">關係*</string>
+    <string name="re_job">職業*</string>
+
+    <!-- 照片信息 -->
+    <string name="photo_cd">身份證照片*</string>
+    <string name="photo_card">手持身份證影上半身照片*</string>
+    <string name="photo_in">入息證明照片*</string>
+    <string name="photo_address">住址證明照片*</string>
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+
+
+</resources>
