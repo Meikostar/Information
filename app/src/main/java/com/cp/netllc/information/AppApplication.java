@@ -9,8 +9,8 @@ import android.util.Log;
 
 public class AppApplication extends Application {
 
-    private String url="https://www.sojson.com/open/api/weather/json.shtml?city=深圳";
-
+    public static String url = "http://vr.canplay.com.cn/address/web";
+    public static Content content;
 
     public String getUrl() {
         return url;
@@ -19,6 +19,7 @@ public class AppApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        Log.d("AppApplication","onCreate");
+        content=new Content();
+        Log.d("AppApplication", "onCreate");
     }
 }

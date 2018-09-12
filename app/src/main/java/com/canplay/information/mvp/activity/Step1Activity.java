@@ -10,6 +10,19 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import com.canplay.information.R;
+import com.canplay.information.util.TextUtil;
+import com.google.gson.Gson;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+
+import rx.Observable;
+import rx.Observer;
+import rx.Subscriber;
+import rx.android.schedulers.AndroidSchedulers;
+import rx.schedulers.Schedulers;
 
 /**
  * 步骤一
@@ -20,8 +33,6 @@ public class Step1Activity extends AppCompatActivity implements OnClickListener 
     private AutoCompleteTextView mEmailView;
     private EditText mPasswordView;
     private View mProgressView;
-    private View mProgressViewss;
-    private View s;
     private View mLoginFormView;
 
 
@@ -63,7 +74,6 @@ public class Step1Activity extends AppCompatActivity implements OnClickListener 
 //        mLoginFormView = findViewById(R.id.login_form);
 //        mProgressView = findViewById(R.id.login_progress);
     }
-
 
     @Override
     public void onClick(View view) {

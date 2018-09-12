@@ -156,6 +156,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.9\cc0d879e3c75fe106aed3651fbdaebe628ac67ef\rxjava-1.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc0d879e3c75fe106aed3651fbdaebe628ac67ef">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\rxjava-1.2.9_c380b6ac152f80db72fca4f278e6ca180284a1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -174,12 +183,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_face64eb3e6bd2026773f96131d5b80ffc2b3b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="F:\GitWorkSpace\Information\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
         <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.1_ccaac0df4447101ebf439cf550d94865a0a7ee23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="F:\GitWorkSpace\Information\app\build\intermediates\pre-dexed\debug\glide-3.6.1_4020668c253519df8db009e7f815b6fcc7d18017.jar" />
     </item>
     <item
         is-multidex="false"
